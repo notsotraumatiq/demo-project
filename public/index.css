@@ -57,6 +57,7 @@
 
 .DisplayButtons button:last-child {
   flex: 0.35;
+  /* nothing */
 }
 
 footer {
