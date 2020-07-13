@@ -74,7 +74,7 @@ footer {
 footer button {
   position: absolute bottom;
   border: none;
-  /* text-decoration: none; */
+  text-decoration: none;
   background-color: white;
   font-weight: 600;
   color: indigo;
